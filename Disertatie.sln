@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disertatie.Server", "Disertatie.Server\Disertatie.Server.csproj", "{61578C74-30EA-44B9-9210-850F3156720C}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "disertatie.client", "disertatie.client\disertatie.client.esproj", "{AFC83AA6-A670-4779-966F-E922ECA38ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61578C74-30EA-44B9-9210-850F3156720C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61578C74-30EA-44B9-9210-850F3156720C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61578C74-30EA-44B9-9210-850F3156720C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61578C74-30EA-44B9-9210-850F3156720C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC83AA6-A670-4779-966F-E922ECA38ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC83AA6-A670-4779-966F-E922ECA38ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC83AA6-A670-4779-966F-E922ECA38ECC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AFC83AA6-A670-4779-966F-E922ECA38ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC83AA6-A670-4779-966F-E922ECA38ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC83AA6-A670-4779-966F-E922ECA38ECC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4939B9-1D34-473E-868A-6983EEBBB3E9}
+	EndGlobalSection
+EndGlobal
